@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "my-mcp-server-fd4be2dd": {
+      "type": "stdio",
+      "command": "/home/rhyakuta/codes/agent-framework-practice/.venv/bin/python",
+      "args": [
+        "/home/rhyakuta/codes/agent-framework-practice/tutorial/8-expose-agent-as-mcp.py"
+      ]
+    }
+  },
+  "inputs": []
+}

@@ -1,0 +1,9 @@
+python-dotenv
+agent-framework==1.0.0b251223
+azure-identity
+
+# For observability
+opentelemetry-exporter-otlp-proto-grpc
+
+# For observability with Azure Monitor 
+azure-monitor-opentelemetry
